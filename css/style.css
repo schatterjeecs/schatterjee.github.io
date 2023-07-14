@@ -731,7 +731,8 @@ body.offcanvas {
 .progress-wrap h3 {
   font-size: 16px;
   font-family: "Quicksand", Arial, sans-serif;
-  margin-bottom: 10px; }
+  margin-bottom: 10px; 
+}
 
 .progress {
   height: 6px;
@@ -1427,3 +1428,13 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+
+.tag-cloud {
+  display: inline-block;
+  color: white;
+  padding: 4px 10px;
+  font-family: Calibri;
+  border-radius: 15px;
+  background-color: #2196F3;
+  margin-top: 4px;
+}
